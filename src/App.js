@@ -163,9 +163,6 @@ const NavData = {
         description: 'Step-by-step models and mental scaffolds for building repeatable, scalable marketing systems.'
       }
     }
-  },
-  'Contact': {
-    description: 'Contact form, meeting scheduler, location, email & social links'
   }
 };
 
